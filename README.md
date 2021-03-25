@@ -9,6 +9,45 @@ I took inspiration from the [Tokyo Night](https://marketplace.visualstudio.com/i
 
 # ScreenShots
 
+### HTML
+
+![HTML screenshot](https://github.com/arikchakma/arikko-s-theme/blob/main/arikko-dark-html.png?raw=true)
+
+### CSS
+
+![CSS screenshot](https://github.com/arikchakma/arikko-s-theme/blob/main/arikko-dark-css.png?raw=true)
+
+### JavaScript
+
+![JavaScript screenshot](https://github.com/arikchakma/arikko-s-theme/blob/main/arikko-dark-js.png?raw=true)
+
+# My settings for visual studio✌
+
+```javascript
+{
+	"workbench.colorTheme": "Arikko's Dark",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "Operator Mono light",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 18,
+	"editor.fontWeight": "600",
+	"editor.lineHeight": 28,
+	"editor.cursorBlinking": "expand",
+	"files.autoSave": "afterDelay",
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"editor.cursorWidth": 3,
+	"editor.wordWrap": "on",
+	"editor.wordWrapColumn": 75,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+}
+
+```
 
 # Hi there, I'm Arik Chakma - aka Arikko 👋
 

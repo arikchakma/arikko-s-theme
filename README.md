@@ -22,6 +22,8 @@ I took inspiration from the [Tokyo Night](https://marketplace.visualstudio.com/i
 ![JavaScript screenshot](https://github.com/arikchakma/arikko-s-theme/blob/main/arikko-dark-js.png?raw=true)
 
 # My settings for visual studio✌
+- To get the same look as mine, you can use my settings to. I also use some extra extensions like Image Preview, Better Comments and so on.
+- You'll find them in vs code marketplace.
 
 ```javascript
 {

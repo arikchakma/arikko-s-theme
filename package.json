@@ -1,8 +1,8 @@
 {
 	"name": "arikko-s-theme",
 	"displayName": "Arikko's Theme",
-	"description": "Arik Chakma's theme",
-	"version": "0.0.1",
+	"description": "A dark moody theme of Arik Chakma aka Arikko.",
+	"version": "2.0.1",
 	"publisher": "ArikChakma",
 	"repository": {
 		"type": "git",

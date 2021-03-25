@@ -1,0 +1,37 @@
+{
+	"name": "arikko-s-theme",
+	"displayName": "Arikko's Theme",
+	"description": "Arik Chakma's theme",
+	"version": "0.0.1",
+	"publisher": "ArikChakma",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arikchakma/arikko-s-theme"
+	},
+	"keywords": [
+		"theme",
+		"moody",
+		"dark",
+		"light",
+		"arik",
+		"clean",
+		"Arik Chakma",
+		"Arikko"
+	],
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Arikko's Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arikko's Dark-color-theme.json"
+			}
+		]
+	}
+}

@@ -3,7 +3,7 @@
 - Here is my own visual studio code's theme.
 - Will be maintaining this whenever I get time, thanks for your understanding! 🙏🏽
 
-# Inpired
+# Inspired
 
 I took inspiration from the [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) theme which I was using around 5/6 months.
 

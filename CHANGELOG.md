@@ -12,4 +12,8 @@
 - Added Screenshots for html, css and javascript.
 
 
+# Version 2.0.2 - (25 March 2021)
+## Added
+- Updated CHANGELOG.md
+
 

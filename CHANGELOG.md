@@ -1,9 +1,15 @@
-# Change Log
+# Version 0.0.1 - (25 March 2021)
+## Added
+- Updated variable value colors
+- Updated function name color.
 
-All notable changes to the "arikko-s-theme" extension will be documented in this file.
+# Version 2.0.0 - (25 March 2021)
+## Added
+- Updated JSON file.
+# Version 2.0.1 - (25 March 2021)
+## Added
+- Updated JSON file.
+- Added Screenshots for html, css and javascript.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
 
-- Initial release

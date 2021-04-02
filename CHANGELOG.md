@@ -16,4 +16,9 @@
 ## Added
 - Updated CHANGELOG.md
 
+# Version 3.0.0 - (03 April 2021)
+## Added
+- Updated colors
+- Updated html attibute's colors
+- Updayed JSON colors
 

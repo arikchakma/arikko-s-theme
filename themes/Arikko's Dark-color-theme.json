@@ -12,7 +12,7 @@
 			"foreground": "#ecae52"
 		},
 		"variable.declaration": {
-			"foreground": "#c2f2fa"
+			"foreground": "#f1faa2"
 		},
 		"variable": {
 			"foreground": "#c0caf5"
@@ -839,7 +839,7 @@
 				"support.type.map.key"
 			],
 			"settings": {
-				"foreground": "#7aa2f7"
+				"foreground": "#7a97f7"
 			}
 		},
 		{
@@ -856,7 +856,7 @@
 				"meta.at-rule.mixin.scss entity.name.function.scss"
 			],
 			"settings": {
-				"foreground": "#9ece6a"
+				"foreground": "#f6fa1d"
 			}
 		},
 		{
@@ -1006,7 +1006,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#bb9af7"
+				"foreground": "#f8f696"
 			}
 		},
 		{
@@ -1141,7 +1141,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#7aa2f7"
+				"foreground": "#f7ef7a"
 			}
 		},
 		{

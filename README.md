@@ -11,6 +11,8 @@
 
 I took inspiration from the [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) theme which I was using around 5/6 months.
 
+---
+
 ## Theme Screenshots
 
 <p align="center"><img width="800px" src="images/arikko-dark-html.png"></p>

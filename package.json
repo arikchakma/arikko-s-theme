@@ -2,7 +2,7 @@
 	"name": "arikko-s-theme",
 	"displayName": "Arikko's Theme",
 	"description": "A dark moody theme of Arik Chakma aka Arikko.",
-	"version": "3.0.2",
+	"version": "3.0.3",
 	"publisher": "ArikChakma",
 	"repository": {
 		"type": "git",
@@ -18,7 +18,7 @@
 		"Arik Chakma",
 		"Arikko"
 	],
-	"icon": "icon.png",
+	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.46.0"
 	},

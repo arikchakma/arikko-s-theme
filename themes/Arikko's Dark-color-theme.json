@@ -609,7 +609,7 @@
 			"name": "Tag",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#7decff"
+				"foreground": "#a9e8f3"
 			}
 		},
 		{
@@ -623,7 +623,7 @@
 			"name": "Tag Punctuation",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#4b939c"
+				"foreground": "#1895a5"
 			}
 		},
 		{
@@ -840,7 +840,7 @@
 				"support.type.map.key"
 			],
 			"settings": {
-				"foreground": "#7a97f7"
+				"foreground": "#a4b8fc"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 				"meta.at-rule.mixin.scss entity.name.function.scss"
 			],
 			"settings": {
-				"foreground": "#f6fa1d"
+				"foreground": "#fdff8f"
 			}
 		},
 		{
@@ -871,7 +871,7 @@
 			"name": "CSS Tag",
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#0db9d7"
+				"foreground": "#ecf387"
 			}
 		},
 		{

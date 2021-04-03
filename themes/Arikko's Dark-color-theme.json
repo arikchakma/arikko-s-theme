@@ -12,7 +12,7 @@
 			"foreground": "#ecae52"
 		},
 		"variable.declaration": {
-			"foreground": "#f1faa2"
+			"foreground": "#ecf78e"
 		},
 		"variable": {
 			"foreground": "#c0caf5"
@@ -70,7 +70,7 @@
 
 		"activityBar.background": "#16161e",
 		"activityBar.foreground": "#787c99",
-		//"activityBar.activeBorder": "#3b3e52",
+		// "activityBar.activeBorder": "#3b3e52",
 		//"activityBar.activeBackground": "#101014",
 		"activityBar.inactiveForeground": "#3b3e52",
 		"activityBar.border": "#16161e",
@@ -335,9 +335,9 @@
 		"merge.incomingHeaderBackground": "#3d59a1aa",
 		"merge.incomingContentBackground": "#3d59a144",
 
-		"gitlens.trailingLineForegroundColor": "#444b6a",
-		"gitlens.gutterUncommittedForegroundColor": "#444b6a",
-		"gitlens.gutterForegroundColor": "#444b6a",
+		// "gitlens.trailingLineForegroundColor": "#444b6a",
+		// "gitlens.gutterUncommittedForegroundColor": "#444b6a",
+		// "gitlens.gutterForegroundColor": "#444b6a",
 
 		"notificationCenterHeader.background": "#101014",
 		"notifications.background": "#101014",
@@ -356,6 +356,7 @@
 		"menu.separatorBackground": "#101014",
 		"menu.border": "#101014"
 	},
+
 	"tokenColors": [
 		{
 			"name": "Italics - Comments, Storage, Keyword Flow, Vue attributes, Decorators",
@@ -456,7 +457,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#72db5d"
+				"foreground": "#9feb90"
 			}
 		},
 		{
@@ -608,7 +609,7 @@
 			"name": "Tag",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#f7768e"
+				"foreground": "#7decff"
 			}
 		},
 		{
@@ -622,7 +623,7 @@
 			"name": "Tag Punctuation",
 			"scope": "punctuation.definition.tag",
 			"settings": {
-				"foreground": "#ba3c97"
+				"foreground": "#4b939c"
 			}
 		},
 		{
@@ -1259,7 +1260,7 @@
 			"name": "HTML text",
 			"scope": ["text.html", "text.log"],
 			"settings": {
-				"foreground": "#9aa5ce"
+				"foreground": "#b3e6e7"
 			}
 		},
 		{

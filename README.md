@@ -52,7 +52,7 @@ Type `theme`, choose `Preferences: Color Theme`, and select Arikko's Dark from t
 - To get the same look as mine, you can use my settings to. I also use some extra extensions like Image Preview, Better Comments and so on.
 - You'll find them in vs code marketplace.
 
-```javascript
+```js
 {
 	"workbench.colorTheme": "Arikko's Dark",
 	"editor.fontFamily": "Operator Mono",

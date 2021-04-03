@@ -20,5 +20,13 @@
 ## Added
 - Updated colors
 - Updated html attibute's colors
-- Updayed JSON colors
+- Updayed JSON 
+
+# Version 3.0.3 - (04 April 2021)
+## Added
+- Updated colors
+- Updated html attibute's colors
+- Updated JSON colors
+- Replaced Screenshots
+- Modified Icon
 

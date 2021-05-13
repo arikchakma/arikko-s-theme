@@ -29,4 +29,7 @@
 - Updated JSON colors
 - Replaced Screenshots
 - Modified Icon
+# Version 3.2.0 - (04 April 2021)
+## Added
+- Updated JSDoc color
 
